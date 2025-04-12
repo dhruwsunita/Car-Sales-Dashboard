@@ -38,5 +38,10 @@ This dashboard helps the business to:
 - Track KPIs for informed planning and forecasting
 - Improve customer targeting through behavioral insights
 
+# How to Use
+- Download and install Tableau Desktop
+- Download the .twbx file for any project
+- Open the file in Tableau to interact with the visualizations
+- Connect to your own data sources to create custom dashboards
 
 
