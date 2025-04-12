@@ -1,4 +1,5 @@
 # 🚗 Car Sales Dashboard
+![Car](https://github.com/user-attachments/assets/b15dad8d-95ef-4105-8a33-d09f2736a92d)
 # Project Objective :
 The objective of this project is to design and develop a dynamic and interactive car sales dashboard using Tableau. This dashboard visualizes key performance indicators (KPIs) related to car sales, providing a clear and insightful view of business performance over time. It helps stakeholders monitor trends, assess performance, and make informed, data-driven decisions.
 
@@ -35,8 +36,6 @@ This dashboard helps the business to:
 - Optimize sales strategies based on geographic and model trends
 - Track KPIs for informed planning and forecasting
 - Improve customer targeting through behavioral insights
-
-![Car](https://github.com/user-attachments/assets/b15dad8d-95ef-4105-8a33-d09f2736a92d)
 
 
 
