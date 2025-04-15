@@ -1,13 +1,13 @@
 # 🚗 Car Sales Dashboard
 ![Car](https://github.com/user-attachments/assets/b15dad8d-95ef-4105-8a33-d09f2736a92d)
 🌐[View Dashboard](https://public.tableau.com/views/CarSalesDashboard_17395551733180/CarSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-# Project Objective :
+# 📌 Project Objective :
 The objective of this project is to design and develop a dynamic and interactive car sales dashboard using Tableau. This dashboard visualizes key performance indicators (KPIs) related to car sales, providing a clear and insightful view of business performance over time. It helps stakeholders monitor trends, assess performance, and make informed, data-driven decisions.
 
-# Dataset Used:
+# 📁 Dataset Used:
 [Car sales data](https://github.com/dhruwsunita/Car-Sales-Dashboard/blob/main/Car%20Sales%20Data.xlsx)
 
-# KPI’s Requirement:
+# 📊 KPI’s Requirement:
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 1.	SalesOverview:
 - Year-to-Date (YTD) Total Sales
@@ -19,7 +19,7 @@ The dashboard should provide real-time insights into key performance indicators 
 -	YTD Cars Sold
 -	YOY Growth in Cars Sold
 
-# Charts Requirement:
+# 🎨 Charts Requirement:
 1.	YTD Sales Weekly Trend
 2.	YTD Total Sales by Body Style
 3.	YTD Total Sales by Color
@@ -38,7 +38,7 @@ This dashboard helps the business to:
 - Track KPIs for informed planning and forecasting
 - Improve customer targeting through behavioral insights
 
-# How to Use
+# 👉 How to Use
 - Download and install Tableau Desktop
 - Download the .twbx file for any project
 - Open the file in Tableau to interact with the visualizations
